@@ -1,0 +1,9 @@
+<properties>
+    <property id="UseMilitaryFormat" type="boolean">false</property>
+    <property id="ShowSteps" type="boolean">true</property>
+    <property id="ShowStepsPercentage" type="boolean">false</property>
+    <property id="ShowBattery" type="boolean">true</property>
+    <property id="ShowBatteryColor" type="boolean">true</property>
+    <property id="Logo" type="number">0</property>
+    <property id="TitleColor" type="number">4</property>
+</properties>

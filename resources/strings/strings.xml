@@ -1,0 +1,21 @@
+<strings>
+    <string id="AppName">Storm56</string>
+
+    <string id="ShowStepsTitle">Show steps</string>
+    <string id="ShowStepsPercentageTitle">Show steps in percentage of goal</string>
+    <string id="ShowBatteryTitle">Show battery</string>
+    <string id="ShowBatteryColorTitle">Show battery colors</string>
+    <string id="MilitaryFormatTitle">Military Format for 24 Hour Time</string>
+    <string id="LogoTitle">Logo</string>
+    <string id="TitleColorString">Title colors</string>
+    <string id="LogoA">A</string>
+    <string id="LogoB">B</string>
+    <string id="GreyColorString">Grey</string>
+    <string id="DarkGreyColorString">Dark Grey</string>
+    <string id="GreenColorString">Green</string>
+    <string id="DarkGreenColorString">Dark Green</string>
+    <string id="RedColorString">Red</string>
+    <string id="DarkRedColorString">Dark Red</string>
+    <string id="BlueColorString">Blue</string>
+    <string id="DarkBlueColorString">Dark Blue</string>
+</strings>
